@@ -44,7 +44,8 @@ The R script 'run_analysis.R' found in working directory after following instruc
 5 STANDING
 6 LAYING
 
-# Subjects - 1 to 30 subjects who performed above actvities and their reading from accelerometer and gyro are taken
+# Subjects 
+- 1 to 30 subjects who performed above actvities and their reading from accelerometer and gyro are taken
 
 # SD and Mean of features
 
