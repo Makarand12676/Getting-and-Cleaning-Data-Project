@@ -11,12 +11,14 @@ This file explains how to setup and run scripts that will produce outpu
 
 # Data
 -----
-Please visit following link for explaination raw data
+Please refer to following link for explaination raw data
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+
 
 # Steps for running script
 -----------------------
 
-IMP: Project assignment descrion assumes that dataset is downloaded and unzip and ready for use. However I have provided two scripts as below -
+IMP: Project assignment description assumes that dataset is downloaded and unzip and ready for use. However I have provided two scripts as below -
 1. run_analysis.R - This assumes you have set up working directory and script will download and unzip file and use it
 2. run_analysis_NO_DOWNLOAD.R - this assumes you have data downloaded and unzipped in working directory
 
